@@ -4,7 +4,6 @@ import HeroImg2 from '../components/HeroImg2/HeroImg2'
 import Navbar from '../components/Navbar/Navbar'
 import PricingCard from '../components/PricingCard/PricingCard'
 import Work from '../components/WorkCard/Work'
-import WorkCard from '../components/WorkCard/WorkCard'
 
 const Project = () => {
   return (
